@@ -6,6 +6,32 @@ The **Sales Analytics Dashboard** is an interactive business intelligence projec
 
 The report helps users analyze business performance through interactive visualizations, KPI cards, charts, tables, and filters.
 
+## 📸 Dashboard Preview
+
+### 1. Sales Analytics Overview
+![Sales Analytics Overview](Dashboard_Preview/page_1_Sales_Overview.png)
+
+### 2. Average Sales Analysis
+![Average Sales Analysis](Dashboard_Preview/page_2_Average_Sales_Analysis.png)
+
+### 3. All Sales Parameters
+![All Sales Parameters](Dashboard_Preview/page_3_All_Sales_Parameters.png)
+
+### 4. Top N Sales and Share
+![Top N Sales and Share](Dashboard_Preview/page_4_Top_N_Sales_and_Share.png)
+
+### 5. Current Sales vs Target
+![Current Sales vs Target](Dashboard_Preview/page_5_Current_Sales_vs_Target.png)
+
+### 6. Consumer Sales Analysis
+![Consumer Sales Analysis](Dashboard_Preview/page_6_Consumer_Sales.png)
+
+### 7. Corporate Sales Analysis
+![Corporate Sales Analysis](Dashboard_Preview/page_7_Corporate_Sales.png)
+
+### 8. Home Office Sales Analysis
+![Home Office Sales Analysis](Dashboard_Preview/page_8_Home_Office_Sales.png)
+
 ## 🎯 Project Objectives
 
 - Analyze overall sales and profitability.
