@@ -158,6 +158,6 @@ Nagireddy Rakada Rupesh
 
 💼 LinkedIn: www.linkedin.com/in/rakada-rupesh
 
-🐙 GitHub: github.com/Rupesh-29
+🐙 GitHub: https://github.com/Rupesh-29
 
 ⭐ **If you find this project useful, feel free to explore the dashboard and its sales analytics approach.**
