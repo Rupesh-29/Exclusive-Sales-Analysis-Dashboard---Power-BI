@@ -18,10 +18,10 @@ The report helps users analyze business performance through interactive visualiz
 ![All Sales Parameters](Dashboard_Preview/page_3_All_Sales_Parameters.png)
 
 ### 4. Top N Sales and Share
-![Top N Sales and Share](Dashboard_Preview/page_4_Top_N_Sales_and_Share.png)
+![Top N Sales and Share](./Dashboard_Preview/page_4_Top_N_Sales_And_Share.png)
 
 ### 5. Current Sales vs Target
-![Current Sales vs Target](Dashboard_Preview/page_5_Current_Sales_vs_Target.png)
+![Current Sales vs Target](./Dashboard_Preview/page_5_Current_Sales_VS_Target.png)
 
 ### 6. Consumer Sales Analysis
 ![Consumer Sales Analysis](Dashboard_Preview/page_6_Consumer_Sales.png)
