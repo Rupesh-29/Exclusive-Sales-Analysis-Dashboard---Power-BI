@@ -156,7 +156,7 @@ Nagireddy Rakada Rupesh
 
 📱 Phone: +91 8374792489
 
-💼 LinkedIn: linkedin.com/in/rakada-rupesh
+💼 LinkedIn: www.linkedin.com/in/rakada-rupesh
 
 🐙 GitHub: github.com/Rupesh-29
 
